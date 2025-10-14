@@ -2,7 +2,8 @@
 
 ## 🚀 [Live Demo](http://ec2-3-83-146-24.compute-1.amazonaws.com/api/docs/)
 
-An API platform for recipe management, deployed on **AWS** with a **CI/CD** pipeline. Built with **Python, Django, and PostgreSQL**. Implements                   Test-Driven Development (TDD) with 75% test coverage using Pytest.
+An API platform for recipe management, deployed on **AWS** with a **CI/CD** pipeline. Built with **Python, Django, and PostgreSQL**. 
+Implements Test-Driven Development (TDD) with 75% test coverage using Pytest.
 
 ---
 
