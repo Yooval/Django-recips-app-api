@@ -1,9 +1,8 @@
 # CookWise - Recipe Sharing Platform
 
-## 🚀 [Live Demo](http://ec2-3-83-146-24.compute-1.amazonaws.com/api/docs/)
 
-An API platform for recipe management, deployed on **AWS** with a **CI/CD** pipeline. Built with **Python, Django, and PostgreSQL**.  
-Implements Test-Driven Development (TDD) with 75% test coverage using **Pytest**.
+An API platform for creating and editing recipes with image uploads, featuring user authentication and access control for private recipe management.
+Built with **Python**, **Django**, and **PostgreSQL**. Deployed on **AWS** with a **CI/CD** pipeline, and developed using Test-Driven Development (TDD) achieving 75% test coverage with **Pytest**.
 
 ---
 
